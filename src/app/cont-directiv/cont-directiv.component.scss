@@ -1,0 +1,23 @@
+.title {
+    color: wheat;
+    background-color: dimgray;
+    padding: 10px;
+}
+
+.content{
+    text-align: center;
+    margin: 0px;
+}
+.description{
+    color: red;
+    background-color: lightgrey;
+    margin-top: -4px;
+    padding: 10px;
+}
+.sticky{
+    display: inline-block;
+    padding:  0px;
+    margin: 15px;
+    border-left: dimgray 3px solid;
+    border-right: dimgray 3px solid;
+}
