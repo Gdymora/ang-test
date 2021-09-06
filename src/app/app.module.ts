@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { ContDirectivComponent } from './cont-directiv/cont-directiv.component';
 import { ObserComponent } from './obser/obser.component';
 import { GenericsComponent } from './generics/generics.component';
+import { SubgComponent } from './subg/subg.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ContDirectivComponent,
     ObserComponent,
-    GenericsComponent
+    GenericsComponent,
+    SubgComponent
   ],
   imports: [
     BrowserModule,
